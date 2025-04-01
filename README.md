@@ -2,8 +2,7 @@
 IBM Data Science Professional Certificate
 
 
-### Final Assignment Instructions: Create and Share
-Your Jupyter Notebook
+### Final Assignment Instructions: Create and Share Your Jupyter Notebook
 #### Objective
 In this final assignment, you will:
 * Create a Jupyter Notebook
